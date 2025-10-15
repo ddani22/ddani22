@@ -1,7 +1,9 @@
 <!-- Banner (puedes cambiar la imagen por una personalizada con tu nombre o fondo tecnológico) -->
+<!--
 <p align="center">
   <img src="https://i.imgur.com/zA3Xq6H.png" alt="Banner - Daniel Moreno" width="100%" />
 </p>
+-->
 
 <h1 align="center">👋 ¡Hola, soy Daniel Moreno!</h1>
 
