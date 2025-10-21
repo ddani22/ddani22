@@ -36,6 +36,8 @@ Disfruto aprender, experimentar con nuevas herramientas y contribuir a proyectos
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -57,10 +59,10 @@ Disfruto aprender, experimentar con nuevas herramientas y contribuir a proyectos
 ### 📫 Cómo Contactarme
 
 <p align="center">
-  <a href="mailto:daniel.moreno.dev@gmail.com">
+  <a href="danimoreno2602@gmail.com">
     <img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/danielmorenodev" target="_blank">
+  <a href="www.linkedin.com/in/daniel-moreno-calero-635aa3275" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
