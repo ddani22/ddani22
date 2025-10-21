@@ -1,9 +1,9 @@
 <!-- Banner (puedes cambiar la imagen por una personalizada con tu nombre o fondo tecnológico) -->
-
+<!--
 <p align="center">
   <img src="https://i.imgur.com/zA3Xq6H.png" alt="Banner - Daniel Moreno" width="100%" />
 </p>
-
+-->
 
 <h1 align="center">👋 ¡Hola, soy Daniel Moreno!</h1>
 
@@ -17,8 +17,6 @@
 
 Soy un **estudiante de desarrollo de software** con curiosidad insaciable por entender cómo funciona la tecnología que nos rodea.  
 Disfruto aprender, experimentar con nuevas herramientas y contribuir a proyectos que generen impacto real.  
-
-💡 Me motiva la idea de **resolver problemas complejos con código**, mejorar cada día y compartir conocimiento con la comunidad.
 
 ---
 
@@ -42,13 +40,9 @@ Disfruto aprender, experimentar con nuevas herramientas y contribuir a proyectos
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🚀 Proyectos
 
 🌐 **[Mi Portafolio Web](#)** — Sitio personal donde muestro mis proyectos, habilidades y trayectoria. *(Próximamente)*  
-🤖 **[Proyecto IA Experimental](#)** — Experimentos con aprendizaje automático y análisis de datos.  
-🧠 **[Mini-Proyectos en Python](#)** — Pequeños scripts y automatizaciones para aprender y divertirme.
-
-> 💬 *“Los proyectos son mi forma favorita de aprender.”*
 
 ---
 
@@ -72,10 +66,6 @@ Disfruto aprender, experimentar con nuevas herramientas y contribuir a proyectos
 </p>
 
 ---
-
-### ⚡ Dato Curioso
-
-> “No se trata de saberlo todo, sino de **nunca dejar de aprender**.” 🌱  
 
 También disfruto experimentar con nuevas ideas, explorar el mundo del open source y aprender idiomas (hablo español 🇪🇸 e inglés 🇬🇧).
 
