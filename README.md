@@ -19,24 +19,117 @@ Soy un estudiante apasionado por el **Desarrollo de Software** con un enfoque cl
 
 ## 💻 Mi Stack Tecnológico
 
-Estas son algunas de las herramientas y tecnologías con las que he trabajado y estoy familiarizado:
+### 🧩 Lenguajes de Programación
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>
+          <small>Python</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br>
+          <small>Java</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/><br>
+          <small>HTML5</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/><br>
+          <small>CSS3</small>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-  </a>
-  
-  <a href="https://www.docker.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
-  </a>
-  <a href="https://git-scm.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  </a>
-  
-  </p>
+---
+
+### ⚙️ Herramientas y Entornos
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/><br>
+          <small>Git</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/><br>
+          <small>GitHub</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/><br>
+          <small>Docker</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/><br>
+          <small>VS Code</small>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤖 Librerías y Frameworks
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/><br>
+          <small>PyTorch</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/><br>
+          <small>TensorFlow</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50" alt="Scikit-learn"/><br>
+          <small>Scikit-learn</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/><br>
+          <small>Pandas</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/><br>
+          <small>NumPy</small>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/><br>
+          <small>Matplotlib</small>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🧠 Áreas de Interés Principal
 
