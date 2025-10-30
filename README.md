@@ -1,83 +1,78 @@
-<!-- Banner (puedes cambiar la imagen por una personalizada con tu nombre o fondo tecnológico) -->
-<!--
-<p align="center">
-  <img src="https://i.imgur.com/zA3Xq6H.png" alt="Banner - Daniel Moreno" width="100%" />
-</p>
--->
-
-<h1 align="center">👋 ¡Hola, soy Daniel Moreno!</h1>
+# ¡Hola! Soy [TU NOMBRE] 👋
 
 <p align="center">
-  <em>Software Development Student 🤖 | Apasionado por la tecnología, el aprendizaje y la creación de soluciones inteligentes</em>
+  <img src="https://media.giphy.com/media/du3J3BYNQxVDG/giphy.gif" width="400" alt="Animación de código"/>
 </p>
 
----
+## 🚀 Sobre Mí
 
-### 👨🏻‍💻 Sobre mí
+Soy un estudiante apasionado por el **Desarrollo de Software** con un enfoque claro y una gran curiosidad por el mundo de la **Inteligencia Artificial**. Mi objetivo es construir soluciones tecnológicas eficientes y escalables, y estoy especializándome en el ecosistema del **Machine Learning** y **Deep Learning**.
 
-Soy un **estudiante de desarrollo de software** con curiosidad insaciable por entender cómo funciona la tecnología que nos rodea.  
-Disfruto aprender, experimentar con nuevas herramientas y contribuir a proyectos que generen impacto real.  
-
----
-
-### 💻 Tecnologías y Herramientas
-
-<p align="center">
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Herramientas -->
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+* 👨‍💻 Actualmente cursando [TU GRADO/FORMACIÓN, ej: Grado Superior en Desarrollo de Aplicaciones Multiplataforma] en [TU INSTITUCIÓN].
+* 🧠 Buscando activamente oportunidades y proyectos desafiantes en el campo de la IA.
+* 🌱 Siempre en modo aprendizaje, explorando nuevas tecnologías y metodologías.
 
 ---
 
-### 🚀 Proyectos
+## 💻 Mi Stack Tecnológico
 
-🌐 **[Mi Portafolio Web](#)** — Sitio personal donde muestro mis proyectos, habilidades y trayectoria. *(Próximamente)*  
+Estas son algunas de las herramientas y tecnologías con las que he trabajado y estoy familiarizado:
 
----
-
-### 🌱 Actualmente Aprendiendo
-
-- Fundamentos de **Machine Learning** y **Deep Learning**  
-- Mejores prácticas de **Clean Code** y **control de versiones con Git**  
-- Desarrollo de **aplicaciones web** con tecnologías modernas
-
----
-
-### 📫 Cómo Contactarme
-
-<p align="center">
-  <a href="danimoreno2602@gmail.com">
-    <img src="https://img.shields.io/badge/Correo%20Electrónico-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
   </a>
-  <a href="www.linkedin.com/in/daniel-moreno-calero-635aa3275" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
   </a>
-</p>
+  
+  <a href="https://www.docker.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
+  </a>
+  <a href="https://git-scm.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+  </a>
+  
+  </p>
+
+## 🧠 Áreas de Interés Principal
+
+Estoy invirtiendo mi tiempo de estudio en profundizar en las siguientes disciplinas:
+
+* 🤖 **Machine Learning:** Creación de modelos predictivos y análisis de datos.
+* 🔬 **Deep Learning:** Redes neuronales, NLP y Visión por Computador.
+* ☁️ **Infraestructura de IA (MLOps):** Usar herramientas como Docker para empaquetar y desplegar modelos de forma eficiente.
 
 ---
 
-También disfruto experimentar con nuevas ideas, explorar el mundo del open source y aprender idiomas (hablo español 🇪🇸 e inglés 🇬🇧).
+## 📂 Portfolio y Proyectos Destacados
+
+Te invito a revisar mi portfolio personal donde resumo mi trayectoria y proyectos. También puedes explorar mis repositorios fijados (pinned) aquí en GitHub.
+
+### 💼 [Visita mi Portfolio Web](https://TU-ENLACE-AL-PORTFOLIO.com)
 
 ---
+
+## 📊 Mis Estadísticas de GitHub
+
+*(¡Estas estadísticas se actualizan automáticamente!)*
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielMoreno&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de [TU NOMBRE]" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes de [TU NOMBRE]" />
 </p>
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Si te interesa colaborar o simplemente charlar sobre tecnología, ¡no dudes en contactarme!*  
+## 📬 ¡Conectemos!
 
+Estoy abierto a colaborar, discutir ideas sobre IA o simplemente charlar sobre tecnología. ¡No dudes en contactarme!
+
+<p align="left">
+  <a href="https://linkedin.com/in/TU-USUARIO-DE-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi LinkedIn"/>
+  </a>
+  <a href="mailto:TU-EMAIL@GMAIL.COM" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mi Email"/>
+  </a>
+</p>
