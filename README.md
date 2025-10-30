@@ -152,8 +152,10 @@ Te invito a revisar mi portfolio personal donde resumo mi trayectoria y proyecto
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ddani22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub de ddani22" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ddani22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes de ddani22" />
+  
+  [![ddani22 GitHub stats](https://github-readme-stats.vercel.app/api?username=ddani22&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddani22&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
