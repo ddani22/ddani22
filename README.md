@@ -1,4 +1,4 @@
-# ¡Hola! Soy [TU NOMBRE] 👋
+# ¡Hola! Soy Daniel Moreno 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/du3J3BYNQxVDG/giphy.gif" width="400" alt="Animación de código"/>
@@ -8,9 +8,9 @@
 
 Soy un estudiante apasionado por el **Desarrollo de Software** con un enfoque claro y una gran curiosidad por el mundo de la **Inteligencia Artificial**. Mi objetivo es construir soluciones tecnológicas eficientes y escalables, y estoy especializándome en el ecosistema del **Machine Learning** y **Deep Learning**.
 
-* 👨‍💻 Actualmente cursando [TU GRADO/FORMACIÓN, ej: Grado Superior en Desarrollo de Aplicaciones Multiplataforma] en [TU INSTITUCIÓN].
+* 👨‍💻 Actualmente cursando Grado Superior en Desarrollo de Aplicaciones Multiplataforma.
 * 🧠 Buscando activamente oportunidades y proyectos desafiantes en el campo de la IA.
-* 🌱 Siempre en modo aprendizaje, explorando nuevas tecnologías y metodologías.
+* 🌱 Siempre investigando y explorando nuevas tecnologías y metodologías.
 
 ---
 
@@ -58,8 +58,8 @@ Te invito a revisar mi portfolio personal donde resumo mi trayectoria y proyecto
 *(¡Estas estadísticas se actualizan automáticamente!)*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de [TU NOMBRE]" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO-DE-GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes de [TU NOMBRE]" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ddani22&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&count_private=true&include_all_commits=true" alt="Estadísticas de GitHub de ddani22" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddani22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lenguajes de ddani22" />
 </p>
 
 ---
@@ -69,10 +69,10 @@ Te invito a revisar mi portfolio personal donde resumo mi trayectoria y proyecto
 Estoy abierto a colaborar, discutir ideas sobre IA o simplemente charlar sobre tecnología. ¡No dudes en contactarme!
 
 <p align="left">
-  <a href="https://linkedin.com/in/TU-USUARIO-DE-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/daniel-moreno-calero-635aa3275" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi LinkedIn"/>
   </a>
-  <a href="mailto:TU-EMAIL@GMAIL.COM" target="_blank">
+  <a href="mailto:danimoreno2602@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mi Email"/>
   </a>
 </p>
