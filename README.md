@@ -145,7 +145,7 @@ Estoy invirtiendo mi tiempo de estudio en profundizar en las siguientes discipli
 
 Te invito a revisar mi portfolio personal donde resumo mi trayectoria y proyectos. También puedes explorar mis repositorios fijados (pinned) aquí en GitHub.
 
-### 💼 [Visita mi Portfolio Web](https://TU-ENLACE-AL-PORTFOLIO.com)
+### 💼 [Visita mi Portfolio Web](https://ddani22.github.io/Portfolio/))
 
 ---
 
